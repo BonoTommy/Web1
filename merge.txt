@@ -1,1 +1,1 @@
-Bonjour je m'appelle Tommy et je suis dans la branche main.
+Bonjour moi c'est Tommy et je suis dans la branche conf_merge.
